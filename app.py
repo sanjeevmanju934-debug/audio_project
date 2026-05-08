@@ -43,5 +43,5 @@ def main():
             except Exception as e:
                 st.error(f"Error: {e}")
 
-if _vtu logo.PNG_ == "_main_":
+if __name__ == "__main__":
     main()
